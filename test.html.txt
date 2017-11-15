@@ -1,2 +1,5 @@
-hello, ok b‚y h minh up no len nheok
+hello, ok b√¢y h minh up no len nheok
 ok ok
+bay h chinh sua tren day dung ko
+dung lenh git pull
+ok
